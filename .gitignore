@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# text files
+*.txt
+
+# Personal project
+Farming.py
